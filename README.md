@@ -1,6 +1,6 @@
 # Cat_vs_Dog
 
-if there any problem occurs follow the below steps **Something went wrong Reload?**
+if there any problem occurs follow the below steps **#Something went wrong Reload?**
 
 1.Open google colab by using this link https://colab.research.google.com/notebooks/gpu.ipynb in the browser.
 
